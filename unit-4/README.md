@@ -47,7 +47,7 @@ JS: .value, placeholder, strings, data types, string concatenation, conditional 
 Students will use HTML, CSS, and JavaScript  to create a Buzzfeed Quiz project. This quiz can be based on any topic they want.
 
 ### Project Starter Code
-- [Starter Code Repo](https://github.com/itscodenation/int-u4-project-23-24-starter-code)
+- [Starter Code Repo](https://github.com/JillVanO/int-u4-project-23-24-starter-code)
 
 ### Project Examples
 - [Example 1](https://cn-mika.github.io/buzzfeed-quiz-spongebob-example/)
