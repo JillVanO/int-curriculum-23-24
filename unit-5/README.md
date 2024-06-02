@@ -47,7 +47,7 @@ JS: array, array element, square brackets, index, loops, forEach loops, iterate,
 Students will use HTML, CSS, and JavaScript  to create a suggestion app. This app can be based on any topic they want.
 
 ### Project Starter Code
-- [Starter Code Repo](https://github.com/itscodenation/int-u5-project-23-24-starter-code)
+- [Starter Code Repo](https://github.com/JillVanO/int-u5-project-23-24-starter-code)
 
 ### Project Example
 - [Example](https://unit-8-mini-project-demo.glitch.me/)
