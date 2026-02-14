@@ -2,16 +2,6 @@
 
 <br>
 
-## Lesson Materials & Teacher Prep
-
-📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/10fXXRqWf8_B0_08QDgv61OjpEivuNQWWHfQ00Ri9o64/copy) (make a copy for your program - upload the copy)
-
-📝 Upload as Assignment in Google Classroom (5 points):
-- [Exit Ticket](https://forms.gle/DUcwkQd2gj7zCE6L6)
-
-<br>
-
 ## Key Points
 This lesson introduces the concept of coding, Code Nation, and the volunteers who will be teaching. 
 
