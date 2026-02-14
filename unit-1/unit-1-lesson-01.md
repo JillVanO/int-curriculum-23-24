@@ -2,16 +2,6 @@
 
 <br>
 
-## Lesson Materials & Teacher Prep
-
-📖 Upload as Material in Google Classroom:
-- [Slides](https://docs.google.com/presentation/d/10fXXRqWf8_B0_08QDgv61OjpEivuNQWWHfQ00Ri9o64/copy) (make a copy for your program - upload the copy)
-
-📝 Upload as Assignment in Google Classroom (5 points):
-- [Exit Ticket](https://forms.gle/DUcwkQd2gj7zCE6L6)
-
-<br>
-
 ## Key Points
 This lesson introduces the concept of coding, Code Nation, and the volunteers who will be teaching. 
 
@@ -28,11 +18,7 @@ Note: Time will vary for these activities based on the size & timing of your cla
     - Have students list everyday items that require coding, demonstrating the prevalence of coding in daily life.
     - Explain the course's content, including learning three web development languages (HTML, CSS, JavaScript), creating interactive projects, and attending tech company field trips.
     - Students will complete a small coding activity.
-
-- 📝 Exit Ticket & Class Registration (10) :
-    - Instruct students to complete the Unit 1 Exit Ticket. They will submit the link for their coding activity.
-    - Guide students through filling out Code Nation's Registration form.
-    - Note: Registration does not have to happen on this day and can be moved elsewhere.
+    
 
 - ✨Closing & Shout outs (5) :
     - Conclude the lesson by asking if students have any questions or need additional assistance.
@@ -47,5 +33,3 @@ Students may have a limited understanding of how many aspects of their lives uti
 - Markers/pens
 - Cardstock/paper/notecards for name tents
 - [Human bingo game (to print)](https://docs.google.com/document/d/1gNvW01wSLtLrZjSp1-dRMVXfjW19pzsFuYKZV7L6tsw/edit?usp=sharing)
-- [Optional padlet for class norms](https://codenation.padlet.org/cn/nipqv2jg60n21sll)
-- [More teambuilders!](https://docs.google.com/presentation/d/1OQExI6xayhDnDzN2uUg2g9pNv68EukVfl5MKaYWPHzw/edit#slide=id.gf43128b5c6_2_747)
